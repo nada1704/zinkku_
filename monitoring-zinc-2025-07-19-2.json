@@ -1,0 +1,50 @@
+{
+  "exportDate": "2025-07-19T23:58:55.700Z",
+  "totalChildren": 4,
+  "children": [
+    {
+      "namaAnak": "Ella Putri",
+      "nikAnak": "1234567890123456",
+      "namaOrangTua": "Ibu Siti",
+      "noHp": "081234567890",
+      "hariZinc": 3,
+      "status": "aktif",
+      "hariTerakhirLaporan": "Hari ini",
+      "hariTanpaLaporan": 0,
+      "progress": "30%"
+    },
+    {
+      "namaAnak": "Budi Santoso",
+      "nikAnak": "2345678901234567",
+      "namaOrangTua": "Ibu Ani",
+      "noHp": "081234567891",
+      "hariZinc": 10,
+      "status": "selesai",
+      "hariTerakhirLaporan": "Kemarin",
+      "hariTanpaLaporan": 1,
+      "progress": "100%"
+    },
+    {
+      "namaAnak": "Siti Nurhaliza",
+      "nikAnak": "3456789012345678",
+      "namaOrangTua": "Ibu Ratna",
+      "noHp": "081234567892",
+      "hariZinc": 4,
+      "status": "aktif",
+      "hariTerakhirLaporan": "Hari ini",
+      "hariTanpaLaporan": 0,
+      "progress": "40%"
+    },
+    {
+      "namaAnak": "Rina Marlina",
+      "nikAnak": "4567890123456789",
+      "namaOrangTua": "Ibu Dewi",
+      "noHp": "081234567893",
+      "hariZinc": 4,
+      "status": "terlambat",
+      "hariTerakhirLaporan": "2 hari lalu",
+      "hariTanpaLaporan": 2,
+      "progress": "40%"
+    }
+  ]
+}
